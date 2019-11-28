@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1574827733 source:c:\users\lino\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"prototypes.h"
+
+1574824001 c:\users\lino\desktop\project\prototypes.h
+
+1574826386 c:\users\lino\desktop\project\structure.h
+
+1574831378 source:c:\users\lino\desktop\project\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"prototypes.h"
+
+1574919705 source:c:\users\girauld\desktop\project\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"prototypes.h"
+
+1574915522 c:\users\girauld\desktop\project\structure.h
+
+1574913789 c:\users\girauld\desktop\project\prototypes.h
+
+1574919705 source:c:\users\girauld\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"prototypes.h"
+
