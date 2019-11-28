@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1574929810 source:c:\users\girauld\desktop\project_groupe3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	"prototypes.h"
+
+1574915522 c:\users\girauld\desktop\project_groupe3\structure.h
+
+1574913789 c:\users\girauld\desktop\project_groupe3\prototypes.h
+
+1574929791 source:c:\users\girauld\desktop\project_groupe3\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structure.h"
+	"prototypes.h"
+
